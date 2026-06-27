@@ -1,2 +1,2 @@
 # Stock-Sentiment-Analysis
-Project leverages financial news for stock sentiment analysis using natural language processing (NLP).
+Project uses financial news for stock sentiment analysis using natural language processing (NLP).
